@@ -1,6 +1,7 @@
 # links
 
 https://github.com/xpeppers/starway-to-orione
+http://arnaud-nauwynck.github.io/2017/05/15/ServerSentEvent-spring-4-reactive5-to-AngularJS.html
 
 ## Functionnal Programming
 [Slices of FP](https://github.com/ToF-/SlicesOfFP)
